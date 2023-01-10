@@ -1,0 +1,5 @@
+com\example\directorypkg\controller\FileController.class
+com\example\directorypkg\FileWebApplication.class
+com\example\directorypkg\entity\FileData.class
+com\example\directorypkg\repository\FileRepository.class
+com\example\directorypkg\service\FileService.class
